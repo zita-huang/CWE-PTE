@@ -1,0 +1,5 @@
+Bohemian Rhapsody,Queen,Rock,367
+Shape of You,Ed Sheeran,Pop,413
+Billie Jean,Michael Jackson,Pop,294
+Hotel California,Eagles,Rock,390
+Uptown Funk,Mark Ronson ft. Bruno Mars,Funk,271
